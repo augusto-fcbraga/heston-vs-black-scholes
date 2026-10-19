@@ -1,0 +1,14 @@
+# Data (too large / regenerable)
+data/*.csv
+data/*.db
+data/*.pkl
+data/sample/
+results/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
